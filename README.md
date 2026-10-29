@@ -220,16 +220,6 @@ This ensures the login flow runs only when the file is executed directly. If the
 
 ---
 
-## 💡 Improvements you can add
-
-- Add task completion status like complete/unfinished.
-- Add search or filter options for tasks.
-- Improve input validation and error handling.
-- Allow task reordering or category tags.
-- Add a graphical interface later.
-
----
-
 ## 🎯 Summary
 
 This app is a beginner-level task manager with authentication. It uses hashed passwords, separate task files for each user, and a clean console interface.
